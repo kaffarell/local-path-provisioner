@@ -105,7 +105,12 @@ data:
             {
                     "node":"DEFAULT_PATH_FOR_NON_LISTED_NODES",
                     "paths":["/opt/local-path-provisioner"]
-            }
+            },
+            {
+                    "node":"srvdsdcbzp227",
+                    "paths":["/opt/local-path-provisioner"]
+            },
+            
             ]
     }
   setup: |-
